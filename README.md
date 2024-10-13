@@ -1,11 +1,2 @@
-# flutter_module_2
-
-A new Flutter module project.
-
-## Getting Started
-
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/to/add-to-app).
+Hình giao diện
+![image](https://github.com/user-attachments/assets/e8d1b0ce-2d82-4d3c-83c3-5c0066e8b3f3)
