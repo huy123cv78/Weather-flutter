@@ -3,6 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_module_2/Model/weather_model.dart';
 import 'package:flutter_module_2/Services/services.dart';
+// ignore: depend_on_referenced_packages
 import 'package:intl/intl.dart';
 
 class WeatherHome extends StatefulWidget {
